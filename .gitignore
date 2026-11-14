@@ -1,0 +1,15 @@
+# course data (downloaded, not redistributed)
+assignment2/
+gharchive/
+data/
+old_release/
+
+# generated
+outputs/
+checkpoints/
+*.pt
+*.ckpt
+*.parquet
+__pycache__/
+.ipynb_checkpoints/
+*.log
